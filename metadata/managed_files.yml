@@ -6,6 +6,14 @@ locked_files:
 - metadata/*
 - env/
 - env/*
+- hooks/
+- hooks/*
 - etc/
+- etc/conf/
+- etc/conf/*
+- etc/conf.d/
 processed_templates:
 - '**/*.erb'
+dependency_dirs:
+- ~/.cpanm
+- perl5lib

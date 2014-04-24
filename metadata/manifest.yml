@@ -64,6 +64,5 @@ Endpoints:
     Options:
       health: true
 Source-Url: https://github.com/gpei/for_test.git
-Source-Url: https://github.com/jhou1/dcart-perl-git.git
-Source-Url: https://github.com/jhou1/dcart-perl-git.git
-Source-Url: https://github.com/jhou1/dcart-perl-git.git
+#Source-Url: https://github.com/gpei/for_test/blob/master/php.tar.gz
+#Source-Url: https://github.com/gpei/for_test/blob/master/php.zip

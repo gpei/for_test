@@ -12,6 +12,7 @@ Categories:
   - service
   - php
   - web_framework
+  - external
 Website: http://www.php.net
 Help-Topics:
   "Developer Center": https://www.openshift.com/developers
@@ -70,8 +71,8 @@ Subscribes:
     Type: "STRING:urlpath"
     Required : false
 Scaling:
-  Min: 1
-  Max: -1
+  Min: 0
+  Max: 0
 Group-Overrides:
   - components:
     - php-5.3

@@ -69,7 +69,6 @@ Subscribes:
   set-doc-url:
     Type: "STRING:urlpath"
     Required : false
-Scaling:
 Group-Overrides:
   - components:
     - php-5.3

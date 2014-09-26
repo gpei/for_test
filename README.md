@@ -15,7 +15,7 @@ The `php` cartridge provides [PHP](http://www.php.net) on OpenShift.
 \[1\] [Action Hooks documentation](https://github.com/openshift/origin-server/blob/master/node/README.writing_applications.md#action-hooks)
 \[2\] [Markers](#markers)
 
-OpenShift will look for the `php` and `libs` directories when serving your 
+OpenShift will look for tddddddddhe `php` and `libs` directories when serving your 
 application. index.php will handle requests to the root URL of your 
 application. You can create new directories as needed.
 
